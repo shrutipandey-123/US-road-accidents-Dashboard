@@ -5,7 +5,7 @@ st.title('🚗 Car Crashes Dashboard')
 # st.sidebar.title("Navigation")
 # page=st.sidebar.radio("Go to",["Home","About","Data Exploration"])
 # add an image
-st.image('../assets/car1.webp',use_container_width=True)
+st.image('Car Crashes/assets/car1.webp',use_container_width=True)
 st.markdown('----')
 # description
 st.markdown("<h2 style='text-align : cneter'>Dataset Overview</h2>",unsafe_allow_html=True)
