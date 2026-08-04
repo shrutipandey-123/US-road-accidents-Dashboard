@@ -2,7 +2,7 @@ import streamlit as st
 import seaborn as sns
 
 # load dataset
-df=sns.load_dataset("Car_Crashes")
+df=sns.load_dataset("car_crashes")
 
 # title
 st.title("🔍 Data Exploration")
