@@ -3,7 +3,7 @@ import plotly.express as px
 import seaborn as sns
 
 # load dataset
-df=sns.load_dataset("Car_Crashes")
+df=sns.load_dataset("car_crashes")
 state_map = {
     "AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas", "CA": "California",
     "CO": "Colorado", "CT": "Connecticut", "DE": "Delaware", "FL": "Florida", "GA": "Georgia",
